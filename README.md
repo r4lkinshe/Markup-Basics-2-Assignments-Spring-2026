@@ -1,4 +1,4 @@
-# Markup Basics 2 - Coursework
+# Markup Basics 2 - Coursework (Weekly Updates)
 
 This repository tracks my progress in the **Markup Basics** course at **Blackhawk Technical College** (Spring 2026).
 
