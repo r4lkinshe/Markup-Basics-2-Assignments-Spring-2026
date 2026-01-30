@@ -24,7 +24,7 @@ Version Control: Git & GitHub (creating commits, managing `.gitignore`, and push
 AI Integration & Workflow
 I view proficiency with AI as a necessary skill for the modern developer. To that end, I utilized Google Gemini in this project to simulate a real-world professional workflow.
 
-The Strategy:** I treat AI as a technical advisor—using it to troubleshoot environment errors (like OneDrive sync conflicts), generate `.gitignore` templates, and explain Git commands.
+The Strategy: I treat AI as a technical advisor—using it to troubleshoot environment errors (like OneDrive sync conflicts), generate `.gitignore` templates, and explain Git commands.
 he Distinction: While AI assisted with configuration and "why" questions, all HTML markup and logic were hand-coded.
 he Goal: To build the muscle memory required for syntax while simultaneously learning how to leverage AI tools to solve configuration blockers efficiently—a critical skill for today's and tomorrow's coding landscape.
 
