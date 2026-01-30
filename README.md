@@ -31,5 +31,5 @@ I view proficiency with AI as a necessary skill for the modern developer. To tha
 * **The Goal:** To build the muscle memory required for syntax while simultaneously learning how to leverage AI tools to solve configuration blockers efficiently—a critical skill for today's and tomorrow's coding landscape.
 
 ---
-**Student:** Kolade Akinshemoyin
+**Student:** k_kinshe
 **Semester:** Spring 2026
