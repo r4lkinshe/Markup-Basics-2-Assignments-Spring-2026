@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
 <head>
     <meta charset="UTF-8">
     <title>Contact Form</title>
 </head>
+
 <body>
+
 
     <h1>Contact Form</h1>
 
-    <form action="confirmation.html" method="GET">
+    <form action="confirmation.php" method="POST">
 
         <label for="firstname">First Name:</label><br>
-        <input type="text" id="firstname" name="firstname" required><br><br>
+        <input type="text" id="firstname" name="fname" required><br><br>
 
         <label for="lastname">Last Name:</label><br>
-        <input type="text" id="lastname" name="lastname" required><br><br>
+        <input type="text" id="lastname" name="lname" required><br><br>
 
         <label for="phone">Phone Number:</label><br>
-        <input type="tel" id="phone" name="phone"><br><br>
+        <input type="tel" id="phone" name="phoneNumber"><br><br>
 
         <label for="email">Email Address:</label><br>
         <input type="email" id="email" name="email" required><br><br>
@@ -31,9 +35,9 @@
         </select><br><br>
 
         <label>Preferred contact method:</label><br>
-        <input type="radio" id="email-pref" name="contact-method" value="Email" checked>
+        <input type="radio" id="email-pref" name="preferredMethod" value="Email" checked>
         <label for="email-pref">Email</label>
-        <input type="radio" id="phone-pref" name="contact-method" value="Phone">
+        <input type="radio" id="phone-pref" name="preferredMethod" value="Phone">
         <label for="phone-pref">Phone</label><br><br>
 
         <button type="submit">Submit</button>
@@ -41,5 +45,7 @@
 
     </form>
 
+
 </body>
+
 </html>
